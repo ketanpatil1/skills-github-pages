@@ -2,3 +2,4 @@ theme: minima
 title: "Ketan's blog"
 author: "Ketan Patil"
 description: "My test blog on Github Pages"
+permalink: /:categories/:year/:month/:day/:title:output_ext
